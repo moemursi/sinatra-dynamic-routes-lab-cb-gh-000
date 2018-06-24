@@ -3,7 +3,7 @@
 ## Overview
 This lab will serve to reinforce your understanding of routes in a Sinatra application. Complete the following tasks in your application controller and get all of the `learn` tests to pass.
 
-## Spacing in URLs
+## Spacfing in URLs
 
 In some of the tests you might notice `%20` between words in a URL. URLs are not allowed to have spaces in them. Something like this `www.facebook.com/flatiron school` would never work as a website name. The `%` sign in a URL is called `URL encoding`. Basically, it replaces unsafe characters for a URL with appropriate ASCII characters.
 
